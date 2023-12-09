@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>    
+
+	<menuitem id = "menu_logement_root" name = "Gestion des Logements" sequence = "1" web_icon="gestion_logement,static/description/icon.png"/>
+	<menuitem id="menu_logement_gestion" parent="menu_logement_root" name="Gestion des Logements" sequence="1"/>
+	<menuitem id="menu_logement_configuration" parent="menu_logement_root" name="Configuration" sequence="3"/>
+<!--    -->
+</odoo>
+<!--		web_icon="gestion_logement,static/description/logement.png-->

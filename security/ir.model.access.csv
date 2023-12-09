@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_gestion_logement,access.gestion.logement,model_gestion_logement,base.group_user,1,1,1,1
+access_projet_logement,access.projet.logement,model_projet_logement,base.group_user,1,1,1,1
+access_type_propriete,access.type.propriete,model_type_propriete,base.group_user,1,1,1,1
+access_gestion_avenant,access.gestion_avenant,model_gestion_avenant,base.group_user,1,1,1,1
